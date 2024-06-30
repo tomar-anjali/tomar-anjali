@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anjali 
-- 👀 I’m interested in applying my coding skills to development.
+- 👀 I'm passionate about Java programming and enjoy solving real-world problems through code.
 - 🌱 I’m currently learning Java full stack (Java, HTML, CSS, JavaScript and SQL)
-- 💞️ I’m looking to collaborate on some progressive projects.
+- 💞️ Recently graduated from Visvesvaraya Technological University in Infirmation Science and Engineering.
 - 📫 You can reach me at http://www.linkedin.com/in/anjali004.
 
 
